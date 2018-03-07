@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.App button{
+  margin-top: 33%;
+  height: 40px;
+  width: 130px;
+  font-size: large;
+  cursor: pointer;
+}
+.zarResim{
+  margin-top: 70px;
+  position: absolute;
+  top: 0px;
+  left: 35%;
+  height: 30%;
+}
+
